@@ -89,5 +89,4 @@ public class MapController {
 		}
 		return "map/marker";
 	}
-
 }
